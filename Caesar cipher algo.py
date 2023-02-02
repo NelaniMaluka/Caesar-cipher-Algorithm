@@ -1,6 +1,5 @@
 letters = "abcdefghijklmnopqrstuvwxyz"
 num_letters = len(letters)
-print (letters[15])
 
 def encrypt_decrypt(method, key):
     userText = input("Enter the message to transform.\n")
